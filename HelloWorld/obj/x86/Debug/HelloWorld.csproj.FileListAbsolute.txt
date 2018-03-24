@@ -1,0 +1,8 @@
+C:\Users\Caitlyn\Documents\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Caitlyn\Documents\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Caitlyn\Documents\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Caitlyn\Documents\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Users\Caitlyn\Documents\UniNotes\Object Oriented Programming\LabFiles\1.1-HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Caitlyn\Documents\UniNotes\Object Oriented Programming\LabFiles\1.1-HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Caitlyn\Documents\UniNotes\Object Oriented Programming\LabFiles\1.1-HelloWorld\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Caitlyn\Documents\UniNotes\Object Oriented Programming\LabFiles\1.1-HelloWorld\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
