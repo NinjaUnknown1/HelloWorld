@@ -27,7 +27,7 @@ namespace HelloWorld
 				messages [0].Print ();
 			else if (name.ToLower() == "gary")
 				messages [1].Print ();
-			else if (name.ToLower() == "kerry")
+			else if (name.ToLower() == "michael")
 				messages [2].Print ();
 			else
 				messages [3].Print ();
